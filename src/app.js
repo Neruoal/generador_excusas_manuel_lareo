@@ -19,5 +19,6 @@ window.onload = function() {
 
   document.querySelector("#excuse").innerHTML = who[rdm1] + " " + action[rdm2] + " " + what[rdm3] + " " + when[rdm4];
 
+  
   }
 
